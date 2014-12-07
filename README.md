@@ -3,4 +3,4 @@ hello_world
 
 first repository by JackofD
 
-branch for editing the reamde
+branch for editing the readme
